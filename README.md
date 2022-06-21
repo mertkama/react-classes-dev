@@ -18,3 +18,7 @@ I am learning react hooks. the versions I inject may not be up to date but the p
 
 
 ![image](https://user-images.githubusercontent.com/97520268/174895766-73bbac37-3946-4878-b667-e65cbeac42d7.png)
+
+# COMPONENTS
+
+![image](https://user-images.githubusercontent.com/97520268/174897238-eeeae509-d926-469f-a7fa-87c7b3778475.png)
